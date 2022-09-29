@@ -7,4 +7,4 @@ let amigo = {nome:'José',
            console.log(`peso atual = ${amigo.peso}`)
 }}
 
-console.log(amigo.engordar(2))
+console.log(amigo.engordar(4))
