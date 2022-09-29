@@ -1,4 +1,4 @@
 
-for(var counter = 1;counter <= 10;counter++) {
+for(var counter = 1;counter <= 5;counter++) {
     console.log(counter)
 }
